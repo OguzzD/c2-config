@@ -1,1 +1,1 @@
-https://pix-gaps-livestock-creation.trycloudflare.com
+https://api.trycloudflare.com
